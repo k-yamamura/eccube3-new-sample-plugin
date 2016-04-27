@@ -1,0 +1,4 @@
+# urlpath
+gift_wrapping_path: /giftwrapping
+gift_wrapping_assetspath: /giftwrapping/assets
+gift_wrapping_img_urlpath: /giftwrapping/assets/img

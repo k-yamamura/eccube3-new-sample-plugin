@@ -1,0 +1,8 @@
+name: ギフトラッピング
+code: GiftWrapping
+version: 1.0.0
+event: GiftWrappingEvent
+service:
+  - GiftWrappingServiceProvider
+orm.path:
+  - /Resource/doctrine
