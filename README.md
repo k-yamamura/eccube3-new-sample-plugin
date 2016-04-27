@@ -1,0 +1,1 @@
+# eccube3-new-sample-plugin
